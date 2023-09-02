@@ -1,0 +1,1 @@
+Select (count(CITY) - count(DISTINCT(CITY))) AS ANSWER FROM STATION;
